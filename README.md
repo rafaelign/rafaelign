@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there! 👋😄
+
+My name is Rafael Crispim Ignácio from Brazil (🇧🇷).
+
+🔭 I've been working as Web Developer since 2012 and currently I'm working on IT Business Analyst at DOT digital group.
+
+🌱 I'm currently learning about software engineering, more specifically about requirements engineering. I also study agile practices to improve software processes, especially Kanban.
+
+📫 How to reach me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-crispim-ignacio)](https://www.linkedin.com/in/rafael-crispim-ignacio)
 
 <!--
 **rafaelign/rafaelign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
