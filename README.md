@@ -1,6 +1,6 @@
 ### Hi there! 👋😄
 
-My name is Rafael Crispim Ignácio from Brazil (🇧🇷).
+My name is Rafael Crispim Ignácio from Brazil🇧🇷.
 
 🔭 I've been working as Web Developer since 2012 and currently I'm working on IT Business Analyst at DOT digital group.
 
