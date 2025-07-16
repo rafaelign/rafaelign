@@ -10,17 +10,17 @@ My name is Rafael Crispim Ignácio from Brazil🇧🇷.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-crispim-ignacio)](https://www.linkedin.com/in/rafael-crispim-ignacio)
 
-<img src="https://raw.githubusercontent.com/rafaelign/rafaelign/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rafaelign/rafaelign/snake.svg" alt="Snake animation" />
 
 ###
 
-<img src="https://raw.githubusercontent.com/rafaelign/rafaelign/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rafaelign/rafaelign/snake.svg" alt="Snake animation" />
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rafaelign/rafaelign/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rafaelign/rafaelign/snake.svg" alt="Snake animation" />
 
 ###
 
